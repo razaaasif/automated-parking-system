@@ -31,13 +31,13 @@ Welcome to the Automated Parking System! This project provides a simple and intu
 
 6. **slot_numbers_for_car_with_color \<car color\>**  
    - Retrieves the slot numbers of the cars with the specified color.
-   - **Required**: \<car color\> - The color of the car to retrieve the slot number for.
+   - **Required**: \<car color\> - The color of the car to retrieve the slot numbers of cars.
    - **Example**: `slot_numbers_for_car_with_color White` - Retrieves the slot number of a white car.
 
-7. **slot_number_for_car_with_registration_numbers \<car registration_numbers\>**  
+7. **slot_number_for_car_with_registration_number \<car registration_numbers\>**  
    - Fetches the slot number of a car with the provided registration numbers.
-   - **Required**: \<car registration_number\> - The registration numbers of the cars.
-   - **Example**: `slot_number_for_car_with_registration_numbers KA-01-HH-1234` - Retrieves the slot number of a car with registration numbers KA-01-HH-1234.
+   - **Required**: \<car registration_number\> - The registration numbers of a car.
+   - **Example**: `slot_number_for_car_with_registration_number KA-01-HH-1234` - Retrieves the slot number of a car with registration numbers KA-01-HH-1234.
 
 8. **exit**  
    - Exits the application.
