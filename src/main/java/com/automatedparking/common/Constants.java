@@ -6,9 +6,9 @@ public class Constants {
 		PARK("park"), LEAVE("leave"),
 		STATUS("status"),
 		REGISTRATION_NUMBERS_FOR_CARS_WITH_COLOR("registration_numbers_for_cars_with_color"),
-		SLOT_NUMBER_FOR_CAR_WITH_REGISTRATION_NUMBER("slot_number_for_car_with_clor"),
-		SLOT_NUMBERS_FOR_CAR_WITH_COLOR("slot_numbers_for_car_with_clor"),
-		EXIT("exit"),;
+		SLOT_NUMBER_FOR_CAR_WITH_REGISTRATION_NUMBER("slot_number_for_car_with_registration_numbers"),
+		SLOT_NUMBERS_FOR_CAR_WITH_COLOR("slot_numbers_for_car_with_color"),
+		EXIT("exit");
 
 		private String value;
 
