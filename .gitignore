@@ -4,3 +4,4 @@ target
 .project
 debug.log
 error.log
+.classpath
