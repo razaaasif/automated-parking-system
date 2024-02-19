@@ -1,2 +1,6 @@
 target
 /target
+.settings
+.project
+debug.log
+error.log
